@@ -1,0 +1,20 @@
+E:\Demo Projects\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Business.dll
+E:\Demo Projects\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Business.pdb
+E:\Demo Projects\EducationSystem\EducationSystem.Business\obj\Debug\EducationSystem.Business.csprojResolveAssemblyReference.cache
+E:\Demo Projects\EducationSystem\EducationSystem.Business\obj\Debug\EducationSystem.Business.dll
+E:\Demo Projects\EducationSystem\EducationSystem.Business\obj\Debug\EducationSystem.Business.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Business.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Business.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\obj\Debug\EducationSystem.Business.csprojResolveAssemblyReference.cache
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\obj\Debug\EducationSystem.Business.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\obj\Debug\EducationSystem.Business.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Data.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Infrastructure.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Model.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Repository.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EntityFramework.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Data.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Infrastructure.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Model.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EducationSystem.Repository.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Business\bin\Debug\EntityFramework.xml

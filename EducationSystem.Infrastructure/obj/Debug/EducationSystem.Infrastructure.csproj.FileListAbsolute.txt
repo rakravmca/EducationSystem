@@ -1,0 +1,13 @@
+E:\Demo Projects\EducationSystem\EducationSystem.Infrastructure\bin\Debug\EducationSystem.Infrastructure.dll
+E:\Demo Projects\EducationSystem\EducationSystem.Infrastructure\bin\Debug\EducationSystem.Infrastructure.pdb
+E:\Demo Projects\EducationSystem\EducationSystem.Infrastructure\obj\Debug\EducationSystem.Infrastructure.dll
+E:\Demo Projects\EducationSystem\EducationSystem.Infrastructure\obj\Debug\EducationSystem.Infrastructure.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Infrastructure\obj\Debug\EducationSystem.Infrastructure.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Infrastructure\obj\Debug\EducationSystem.Infrastructure.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Infrastructure\bin\Debug\EducationSystem.Infrastructure.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Infrastructure\bin\Debug\EducationSystem.Infrastructure.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Infrastructure\obj\Debug\EducationSystem.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Infrastructure\bin\Debug\EducationSystem.Data.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Infrastructure\bin\Debug\EducationSystem.Data.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Infrastructure\bin\Debug\EntityFramework.xml

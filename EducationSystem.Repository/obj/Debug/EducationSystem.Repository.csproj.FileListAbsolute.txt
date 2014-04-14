@@ -1,0 +1,18 @@
+E:\Demo Projects\EducationSystem\EducationSystem.Repository\bin\Debug\EducationSystem.Repository.dll
+E:\Demo Projects\EducationSystem\EducationSystem.Repository\bin\Debug\EducationSystem.Repository.pdb
+E:\Demo Projects\EducationSystem\EducationSystem.Repository\obj\Debug\EducationSystem.Repository.dll
+E:\Demo Projects\EducationSystem\EducationSystem.Repository\obj\Debug\EducationSystem.Repository.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\obj\Debug\EducationSystem.Repository.csprojResolveAssemblyReference.cache
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\obj\Debug\EducationSystem.Repository.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\obj\Debug\EducationSystem.Repository.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\bin\Debug\EducationSystem.Repository.dll.config
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\bin\Debug\EducationSystem.Repository.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\bin\Debug\EducationSystem.Repository.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\bin\Debug\EducationSystem.Data.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\bin\Debug\EducationSystem.Infrastructure.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\bin\Debug\EntityFramework.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\bin\Debug\EducationSystem.Data.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\bin\Debug\EducationSystem.Infrastructure.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\bin\Debug\EntityFramework.xml
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Repository\bin\Debug\EntityFramework.SqlServer.xml

@@ -1,0 +1,9 @@
+E:\Demo Projects\EducationSystem\EducationSystem.Model\bin\Debug\EducationSystem.Model.dll
+E:\Demo Projects\EducationSystem\EducationSystem.Model\bin\Debug\EducationSystem.Model.pdb
+E:\Demo Projects\EducationSystem\EducationSystem.Model\obj\Debug\EducationSystem.Model.csprojResolveAssemblyReference.cache
+E:\Demo Projects\EducationSystem\EducationSystem.Model\obj\Debug\EducationSystem.Model.dll
+E:\Demo Projects\EducationSystem\EducationSystem.Model\obj\Debug\EducationSystem.Model.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Model\bin\Debug\EducationSystem.Model.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Model\bin\Debug\EducationSystem.Model.pdb
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Model\obj\Debug\EducationSystem.Model.dll
+C:\Users\rakeshn\Rakesh\Dropbox\Projects\New\EducationSystem\EducationSystem.Model\obj\Debug\EducationSystem.Model.pdb
